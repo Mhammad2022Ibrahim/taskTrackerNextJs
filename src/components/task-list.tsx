@@ -4,6 +4,7 @@ import { useOptimistic, useTransition, useState } from 'react'
 import Link from 'next/link'
 import { addTask, toggleTask, deleteTask } from '@/app/_actions'
 
+
 type Task = {
   id: number
   title: string
