@@ -1,3 +1,9 @@
+For run
+npm run dev
+--------------------------------------
+
+
+
 generator client {
   provider = "prisma-client-js"
   output   = "../src/generated/prisma"
